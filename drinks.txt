@@ -1,0 +1,4 @@
+pepsi
+vodka
+wine
+beer
